@@ -1,0 +1,43 @@
+_repo: The-Laurel-Walk_43129
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, John Steeple
+    aliases:
+    - Davis, J. Steeple (John Steeple)
+    - Davis, John S.
+    birthdate: 1844
+    deathdate: 1917
+    gutenberg_agent_id: '26572'
+    url: http://www.gutenberg.org/2009/agents/26572
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: The Laurel Walk
+url: http://www.gutenberg.org/ebooks/43129
